@@ -7,7 +7,7 @@
 	body {
 		font-family:Arial, Helvetica, sans-serif;
 		color:#FFFF66;
-		background-image:url(carpetBkgd.jpg);
+		background-color:#4D291D;
 		background-repeat:repeat;
 		z-index:0;
 	}
