@@ -3,7 +3,7 @@ Slide-Carousel-Simple
 
 This carousel requires PHP5 or higher to be loaded on its hosting server. I wrote this in Javascript, PHP, and HTML5 so it can be mobile and or desktop compatible... Enjoy!
 
-<a href="http://www.totallytotallyamazing.com/?doaction=code1" target="_blank" color="#BFE7B0">net</a>
+<a href="#" color="#BFE7B0">net</a>
 
 simple slide carousel / photo viewer
 
