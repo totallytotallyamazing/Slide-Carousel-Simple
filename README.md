@@ -5,37 +5,6 @@ This carousel requires PHP5 or higher to be loaded on its hosting server. I wrot
 
 simple slide carousel / photo viewer
 
-```json
-{
-  "num": 9,
-  "bool": true,
-  "str1": "Hello World",
-  "object0": { },
-  "object1": { "a": 1, "b": 2 },
-  "array0": [ ],
-  "array1": [1, 2, 3, 4],
-  "array2": [1, 2, null, null, null, 6],
-  "date1": "2012-06-28T22:02:25.993Z",
-  "date2": "2012-06-28T22:02:25.993Z",
-  "err1": { },
-  "err2": { "3": "three", "prop1": 1, "prop2": 2 },
-  "regex1": { },
-  "regex2": { "3": "three", "prop1": 1, "prop2": 2 },
-  "null1": null,
-  "deep": {
-    "a": [
-      {
-        "longstr": "This really long string will force the object containing it to line-wrap.  Underscore-cli is smart about whitespace and only wraps when needed!",
-        "b": { "c": { } }
-      }
-    ],
-    "g": {
-      "longstr": "This really long string will force the object containing it to line-wrap.  Underscore-cli is smart about whitespace and only wraps when needed!"
-    }
-  }
-}
-```
-
 <a href="http://www.totallytotallyamazing.com/?doaction=code1" target="_blank">DEMO</a>
 
 ```html
