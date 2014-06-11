@@ -11,8 +11,9 @@ simple slide carousel / photo viewer
 <script src="http://yandex.st/highlightjs/8.0/highlight.min.js"></script>
 
 <script>
-  hljs.configure({tabReplace: '    '});
+  
   hljs.initHighlightingOnLoad();
+  hljs.highlightAuto(code).value;
   </script>
   
 
