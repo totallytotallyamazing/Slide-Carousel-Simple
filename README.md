@@ -3,7 +3,7 @@ Slide-Carousel-Simple
 
 This carousel requires PHP5 or higher to be loaded on its hosting server. I wrote this in Javascript, PHP, and HTML5 so it can be mobile and or desktop compatible... Enjoy!
 
-<span style="color:#888888">net</span>
+<span style="color:#BFE7B0">net</span>
 
 simple slide carousel / photo viewer
 
