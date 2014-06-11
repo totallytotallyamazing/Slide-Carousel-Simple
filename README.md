@@ -1,3 +1,10 @@
+<head>
+<link rel="stylesheet" href="reveal.css">
+		<link rel="stylesheet" href="default.css" id="theme">
+
+        <link rel="stylesheet" href="zenburn.css">
+	</head>
+
 Slide-Carousel-Simple
 =====================
 
@@ -6,17 +13,6 @@ Just add JPEGs to an "Images" folder just outside of the slideCarouselSimple.php
 simple slide carousel / photo viewer
 
 <a href="http://www.totallytotallyamazing.com/?doaction=code1" target="_blank">DEMO</a>
-
-<link rel="stylesheet" href="http://yandex.st/highlightjs/8.0/styles/default.min.css">
-<script src="http://yandex.st/highlightjs/8.0/highlight.min.js"></script>
-
-<script>
-  
-  hljs.initHighlightingOnLoad();
-  hljs.highlightAuto(code).value;
-  </script>
-  
-
 
 <pre><code>
 &lt;html&gt;
