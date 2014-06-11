@@ -15,7 +15,7 @@ simple slide carousel / photo viewer
 			<section>Vertical Slide 1</section>
 			<section>Vertical Slide 2</section>
 		</section>
-	</div>
+	</div> test
 </div>
 ```
 
