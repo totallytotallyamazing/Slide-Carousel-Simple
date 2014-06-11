@@ -7,27 +7,6 @@ simple slide carousel / photo viewer
 
 <a href="http://www.totallytotallyamazing.com/?doaction=code1" target="_blank">DEMO</a>
 
-```css
-@charset "UTF-8";
-/* CSS Document */
-html { font-size:100%; }
-#captcha-form { width: 328px; }
-#captcha-form label { width: 115px; }
-a:link {color:#72584C}    /* unvisited link */
-a:visited {color:#FF6600} /* visited link */
-a:hover {color:#6600FF}   /* mouse over link */
-a:active {color:#FFFFFF}  /* selected link */
-img {
-	opacity:1;
-	filter:alpha(opacity=100);
-	-webkit-transition: all 0.2s ease-in-out;
-    -moz-transition: all 0.2s ease-in-out;
-    -o-transition: all 0.2s ease-in-out;
-    -ms-transition: all 0.2s ease-in-out;
-    transition: all 0.2s ease-in-out;
-}
-```
-
 ```html
 <!DOCTYPE HTML>
 <html>
