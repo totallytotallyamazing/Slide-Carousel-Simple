@@ -10,7 +10,34 @@ simple slide carousel / photo viewer
 <link rel="stylesheet" href="http://yandex.st/highlightjs/8.0/styles/default.min.css">
 <script src="http://yandex.st/highlightjs/8.0/highlight.min.js"></script>
 
-<script>hljs.initHighlightingOnLoad();</script>
+<script>
+  hljs.configure({tabReplace: '    '});
+  hljs.initHighlightingOnLoad();
+  </script>
+  
+  <pre><code># hello world
+
+you can write text [with links](http://example.com) inline or [link references][1].
+
+* one _thing_ has *em*phasis
+* two __things__ are **bold**
+
+---
+
+hello world
+===========
+
+&lt;this_is inline="xml"&gt;&lt;/this_is&gt;
+
+&gt; markdown is so cool
+
+    so are code segments
+
+1. one thing (yeah!)
+2. two thing `i can write code`, and `more` wipee!
+
+[1]: http://example.com
+</pre></code>
 
 <pre><code>
 &lt;html&gt;
