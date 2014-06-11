@@ -7,6 +7,14 @@ simple slide carousel / photo viewer
 
 <a href="http://www.totallytotallyamazing.com/?doaction=code1" target="_blank">DEMO</a>
 
+```js
+<script type="text/javascript">
+				$(document).ready(function(){
+					$(".group4").colorbox({rel:'group4', slideshow:true});
+				});
+			</script>
+```
+
 ```html
 <!DOCTYPE HTML>
 <html>
