@@ -8,18 +8,6 @@ simple slide carousel / photo viewer
 <a href="http://www.totallytotallyamazing.com/?doaction=code1" target="_blank">DEMO</a>
 
 ```html
-<div class="reveal">
-	<div class="slides">
-		<section>Single Horizontal Slide</section>
-		<section>
-			<section>Vertical Slide 1</section>
-			<section>Vertical Slide 2</section>
-		</section>
-	</div> test
-</div>
-```
-
-```html
 <!DOCTYPE HTML>
 <html>
 <head>
