@@ -10,6 +10,7 @@ simple slide carousel / photo viewer
 <link rel="stylesheet" href="http://yandex.st/highlightjs/8.0/styles/default.min.css">
 <script src="http://yandex.st/highlightjs/8.0/highlight.min.js"></script>
 
+initHighlightingOnLoad()
 initHighlighting()
 
 <pre><code>&lt;!DOCTYPE HTML&gt;
