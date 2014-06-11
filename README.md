@@ -19,8 +19,7 @@ simple slide carousel / photo viewer
 </div>
 ```
 
-<pre><code>
-&lt;html&gt;
+```html
 &lt;head&gt;
 &lt;meta charset="UTF-8"&gt;
 &lt;title&gt;Totally Totally Amazing Slide Carousel&lt;/title&gt;
@@ -230,4 +229,5 @@ simple slide carousel / photo viewer
 	&lt;/script&gt;
 &lt;/div&gt;
 &lt;/body&gt;
-&lt;/html&gt;</code></pre>
+&lt;/html&gt;
+```
