@@ -13,12 +13,6 @@ simple slide carousel / photo viewer
 <script>hljs.initHighlightingOnLoad();</script>
 
 <pre><code>
-&lt;h1&gt;h1 Heading&lt;/h1&gt;
-<h3>h3 Heading</h3>
-<h4>h4 Heading</h4>
-<h5>h5 Heading</h5>
-<h6>h6 Heading</h6>
-&lt;!DOCTYPE HTML&gt;
 &lt;html&gt;
 &lt;head&gt;
 &lt;meta charset="UTF-8"&gt;
