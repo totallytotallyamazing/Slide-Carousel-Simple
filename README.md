@@ -7,6 +7,7 @@ simple slide carousel / photo viewer
 
 <a href="http://www.totallytotallyamazing.com/?doaction=code1" target="_blank">DEMO</a>
 
+<pre><code>
 ```html
 <!DOCTYPE HTML>
 <html>
@@ -285,3 +286,4 @@ simple slide carousel / photo viewer
 </body>
 </html>
 ```
+</pre></code>
