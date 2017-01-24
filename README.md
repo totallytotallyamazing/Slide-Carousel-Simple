@@ -5,7 +5,7 @@ This carousel requires PHP5 or higher to be loaded on its hosting server. I wrot
 
 simple slide carousel / photo viewer
 
-<a href="http://www.totallytotallyamazing.com/?doaction=code1" target="_blank">DEMO</a>
+<a href="http://totallytotallyamazing.com/tta/?doaction=code1#/" target="_blank">DEMO</a>
 
 ```html
 <!DOCTYPE HTML>
