@@ -286,3 +286,13 @@ simple slide carousel / photo viewer
 </html>
 ```
 
+this not colored text
+
+
+```diff
++ this will be highlighted in green
+- this will be highlighted in red
+```
+
+this not colored text
+
