@@ -291,9 +291,9 @@ this not colored text
 
 ```diff
 + this will be highlighted in green
-++ this will be highlighted in green green
+* this will be highlighted in green green
 - this will be highlighted in red
--- this will be highlighted in red red
+/ this will be highlighted in red red
 ```
 
 this not colored text
