@@ -288,26 +288,8 @@ simple slide carousel / photo viewer
 
 this not colored text
 
-
 ```diff
 + this will be highlighted in green
 - this will be highlighted in red
 ```
-
 this not colored text
-
-Roses are \textcolor{red}{red}, violets are \textcolor{blue}{blue}.
-
-Roses are <span style="color:red">red</span>, 
-violets are <span style="color:blue">blue</span>.
-
-\textcolor{red}{red}
-
-red\textcolor{red}{red}red
-
-```
-#333333 I am color
-```
-
-foo <font color='red'>bar</font> foo
-
