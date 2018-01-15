@@ -305,7 +305,9 @@ violets are <span style="color:blue">blue</span>.
 
 red\textcolor{red}{red}red
 
-```color
-#333333 I am red
 ```
+#333333 I am color
+```
+
+foo <font color='red'>bar</font> foo
 
