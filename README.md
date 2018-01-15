@@ -301,4 +301,6 @@ Roses are \textcolor{red}{red}, violets are \textcolor{blue}{blue}.
 Roses are <span style="color:red">red</span>, 
 violets are <span style="color:blue">blue</span>.
 
+\textcolor{red}{red}
 
+\textcolor{red}{red}red
