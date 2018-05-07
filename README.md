@@ -286,27 +286,27 @@ simple slide carousel / photo viewer
 </html>
 ```
 
-this not colored text
+This is highlighted text:
 
 ```diff
 + this will be highlighted in green
 - this will be highlighted in red
 ```
-this not colored text
 
-```json
-    {
-      "name": "cli-proj",
-      "version": "0.0.0",
-      "license": "MIT",
-      "scripts": {
-        "ng": "ng",
-        "start": "ng serve",
-        "build": "ng build",
-        "test": "ng test",
-        "lint": "ng lint",
-        "e2e": "ng e2e"
-      }
-    }
+Colored Code Example, Javascript:
+
+```js
+  import { Component } from '@angular/core';
+  import { MovieService } from './services/movie.service';
+
+  @Component({
+    selector: 'app-root',
+    templateUrl: './app.component.html',
+    styleUrls: ['./app.component.css'],
+    providers: [ MovieService ]
+  })
+  export class AppComponent {
+    title = 'app works!';
+  }
 ```
 
