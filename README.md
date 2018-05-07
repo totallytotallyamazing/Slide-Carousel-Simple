@@ -293,3 +293,20 @@ this not colored text
 - this will be highlighted in red
 ```
 this not colored text
+
+```json
+    {
+      "name": "cli-proj",
+      "version": "0.0.0",
+      "license": "MIT",
+      "scripts": {
+        "ng": "ng",
+        "start": "ng serve",
+        "build": "ng build",
+        "test": "ng test",
+        "lint": "ng lint",
+        "e2e": "ng e2e"
+      }
+    }
+```
+
